@@ -23,3 +23,4 @@
 *In summary, generative text models play a vital role in AI-driven language understanding and generation, making them powerful tools in both academic research and real-world applications.*
 
 *output*:
+![Image](https://github.com/user-attachments/assets/f249d986-bb7b-4606-b62d-9fb718bf8bdb)
